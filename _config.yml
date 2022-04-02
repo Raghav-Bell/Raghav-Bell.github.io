@@ -17,9 +17,9 @@ theme: jekyll-theme-minimal
 title: <Raghav|Singla>
 email: "raghav_11915084@nitkkr.ac.in"
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+ # A Bootstrap 4 start up project for Jekyll and Github Pages
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://raghav-bell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: Raghav-Bell
 
