@@ -3,11 +3,14 @@ layout: page
 title: Raghav Singla
 ---
 <h2>About</h2>
-<p>I am currently an electronics and communication student at <a href="http://www.nitkkr.ac.in/" >NIT Kurukshetra </a>
+<p>I am currently junior  at <a href="http://www.nitkkr.ac.in/" >NIT Kurukshetra </a>.
 As Physics fan and math lover I’m always eager to know answers 
 of what, why and how. I am fascinated with the question that started Digital revolution, "Can machines think?"
 </p>
-<img align="right" src="/assets/My.jpeg" alt="My picture" width="250" ,height="300">
+<!--<img  src="/assets" alt="My picture" width="300" height="300" align="right">-->
+
+<p align="right"> ![My Picture](/assets/My.jpeg)</p>
+
 <h3> <b> My  Interests : </b></h3>
 <ul> 
   <li>Quantum Computation </li>
