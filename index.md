@@ -7,9 +7,9 @@ title: Raghav Singla
 As Physics fan and math lover I’m always eager to know answers 
 of what, why and how. I am fascinated with the question that started Digital revolution, "Can machines think?"
 </p>
-<img  src="/assets/My.jpeg" alt="My picture" width="300" height="300" align="right"/>
+<img  src="/assets/My.jpeg" alt="My picture" width="250" height="250" align="right"/>
 
-<h3> <b> My  Interests : </b></h3>
+</br><h3> <b> My  Interests : </b></h3>
 <ul> 
   <li>Quantum Computation </li>
   <li>Machine Learning</li>
