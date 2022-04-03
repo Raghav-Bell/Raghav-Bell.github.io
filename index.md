@@ -9,7 +9,7 @@ of what, why and how. I am fascinated with the question that started Digital rev
 </p>
 <!--<img  src="/assets" alt="My picture" width="300" height="300" align="right">-->
 
-<p align="right"> ![My Picture](/assets/My.jpeg)</p>
+<p align="right"> ![My Picture](Raghav-Bell.github.io/assets/My.jpeg)</p>
 
 <h3> <b> My  Interests : </b></h3>
 <ul> 
