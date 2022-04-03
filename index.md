@@ -7,9 +7,7 @@ title: Raghav Singla
 As Physics fan and math lover I’m always eager to know answers 
 of what, why and how. I am fascinated with the question that started Digital revolution, "Can machines think?"
 </p>
-<!--<img  src="/assets" alt="My picture" width="300" height="300" align="right">-->
-
-<p align="right"> ![My Picture](Raghav-Bell.github.io/assets/My.jpeg)</p>
+<img  src="/assets/My.jpeg" alt="My picture" width="300" height="300" align="right"/>
 
 <h3> <b> My  Interests : </b></h3>
 <ul> 
