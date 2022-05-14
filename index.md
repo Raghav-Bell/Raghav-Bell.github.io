@@ -18,5 +18,5 @@ of what, why and how. I am fascinated with the question that started Digital rev
   <li>Photonic integrated circuits</li>
   <li>Digital Signal Processing </li>
  </ul>
-<br><a href="/assets/mcv.pdf" target="_blank">Mini-CV</a></br></div>
+<br><a href="/assets/mcv.pdf" target="_blank">Mini-CV</a></div>
   
