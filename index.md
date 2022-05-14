@@ -2,14 +2,14 @@
 layout: page
 title: Raghav Singla
 ---
-<h2>About</h2>
+<div><h2>About</h2>
 <p>I am currently junior  at <a href="http://www.nitkkr.ac.in/" >NIT Kurukshetra </a>.
-As Physics fan and math lover I’m always eager to know answers 
+As a Physics fan and a math lover I’m always eager to know answers 
 of what, why and how. I am fascinated with the question that started Digital revolution, "Can machines think?"
-</p>
-<img  src="/assets/My.jpeg" alt="My picture" width="250" height="250" align="right"/>
+</p></div>
+<div><img  src="/assets/My.jpeg" alt="My picture" width="250" height="250" align="right"/></div>
 
-<h3> <b> My  Interests : </b></h3>
+<div><h3> <b> My  Interests : </b></h3>
 <ul> 
   <li>Quantum Computation </li>
   <li>Machine Learning</li>
@@ -18,4 +18,5 @@ of what, why and how. I am fascinated with the question that started Digital rev
   <li>Photonic integrated circuits</li>
   <li>Digital Signal Processing </li>
  </ul>
+<br><a href="/assets/mcv.pdf" target="_blank">Mini-CV</a></br></div>
   
