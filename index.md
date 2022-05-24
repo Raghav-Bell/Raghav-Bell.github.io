@@ -3,7 +3,7 @@ layout: page
 title: Raghav Singla
 ---
 <div><h2>About</h2>
-<p>I am currently junior  at <a href="http://www.nitkkr.ac.in/" >NIT Kurukshetra </a>.
+<p>I am currently junior  at <a href="http://www.nitkkr.ac.in/" target="_blank" >NIT Kurukshetra </a>.
 As a Physics fan and a math lover I’m always eager to know answers 
 of what, why and how. I am fascinated with the question that started Digital revolution, "Can machines think?"
 </p></div>
