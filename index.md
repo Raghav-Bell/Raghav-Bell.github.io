@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raghav Singla
+
 ---
 
 <div><h2>About</h2>
