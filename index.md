@@ -21,6 +21,6 @@ of what, why and how. I am fascinated with the question that started Digital rev
   <li>Digital Signal Processing </li>
  </ul>
   <br><a href="/assets/mcv.pdf" target="_blank">Mini-CV</a>
-  <a href="/assets/raghav_resume6.8.23.pdf" target="_blank">Résumé</a>
-  <a href="/assets/raghav_cv5.8.23.pdf" target="_blank">CV</a></div>
+  <a href="/assets/raghav_resume18.4.24.pdf" target="_blank">Résumé</a>
+  <a href="/assets/raghav_cv18.4.24.pdf" target="_blank">CV</a></div>
   
