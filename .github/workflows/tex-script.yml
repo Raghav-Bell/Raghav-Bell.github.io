@@ -19,5 +19,5 @@ jobs:
         with:
           name: PDF
           path: |
-           assets/CV_draft.pdf
-           assets/resume_draft.pdf
+           CV_draft.pdf
+           resume_draft.pdf
