@@ -10,12 +10,12 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: |
-          assets/CV_draft.tex
-          assets/resume_draft.tex
+           assets/CV_draft.tex
+           assets/resume_draft.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
           name: PDF
           path: |
-          assets/CVTest.pdf
-          assets/resumeTest.pdf
+           assets/CVTest.pdf
+           assets/resumeTest.pdf
