@@ -22,5 +22,5 @@ of what, why and how. I am fascinated with the question that started Digital rev
  </ul>
   <br><a href="/assets/mcv.pdf" target="_blank">Mini-CV</a>
   <a href="/assets/raghav_resume26.1.25.pdf" target="_blank">Résumé</a>
-  <a href="/assets/raghav_cv26.1.25.pdf" target="_blank">CV</a></div>
+  <a href="/assets/raghav_cv7.9.25.pdf" target="_blank">CV</a></div>
   
